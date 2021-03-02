@@ -12,7 +12,7 @@ after scanning.It uses scapy and getmac to scan LAN and get MAC address respecti
 
 Need some modules for python : 
 
-* scapy  - `pip3 install beautifulsoup4`
+* scapy  - `pip3 install scapy`
 * sys,os,subprocess,threading,time - `Comes pre-installed with python3`
 * termcolor - `pip3 install termcolor`
 * getmac - `pip3 install getmac`
