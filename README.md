@@ -34,4 +34,4 @@ Need some modules for python :
 
 <img src="https://via.placeholder.com/1270x120/0d1117/BFFF00?text=SCREENSHOT+OF+THE+SCRIPTS" />
 
-![Screenshot Of WifiDDOsTool Date: Sat Feb 15 01:58:25 PM](https://i.imgur.com/e2XkBfc.png)
+![Screenshot Of LAN_Scanner Date: Sat March 02 09:13:25 PM](https://i.imgur.com/nv2cTRQ.png)
