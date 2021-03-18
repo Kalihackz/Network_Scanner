@@ -1,5 +1,5 @@
 
-<img src="https://via.placeholder.com/1270x120/0d1117/fffff?text=LAN+Scanner" />
+<img src="https://via.placeholder.com/1270x120/0d1117/fffff?text=Network+Scanner" />
 
 ```html
 This is a python3 script tool that helps to scan a LAN using ping technique and also displays an ARP table
