@@ -13,6 +13,7 @@ after scanning.It uses scapy and getmac to scan LAN and get MAC address respecti
 Need some modules for python : 
 
 * scapy  - `pip3 install scapy`
+* urllib3 - `pip3 install urllib3`
 * sys,os,subprocess,threading,time - `Comes pre-installed with python3`
 * termcolor - `pip3 install termcolor`
 * getmac - `pip3 install getmac`
@@ -28,7 +29,7 @@ Need some modules for python :
 
 <img src="https://via.placeholder.com/1270x120/0d1117/BFFF00?text=FUNCTIONALITIES" />
 
-* **LAN_Scanner.py** - Used for scanning LAN to see all the online hosts.
+* **Network_Scanner.py** - Used for scanning LAN to see all the online hosts.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
