@@ -12,9 +12,8 @@ after scanning.It uses scapy and getmac to scan LAN and get MAC address respecti
 
 Need some modules for python : 
 
-* scapy  - `pip3 install scapy`
 * urllib3 - `pip3 install urllib3`
-* sys,os,subprocess,threading,time - `Comes pre-installed with python3`
+* os,subprocess,threading,time - `Comes pre-installed with python3`
 * termcolor - `pip3 install termcolor`
 * getmac - `pip3 install getmac`
 * texttable - `pip3 install texttable`
